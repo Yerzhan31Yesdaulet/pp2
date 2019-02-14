@@ -43,6 +43,7 @@ namespace task01
                         if (a[i] % j == 0) flag = true;
                 if (!flag) Console.Write(a[i] + " ");     //выводим все prime цифры
             }
+            
           Console.Readkey();
         }
     }
