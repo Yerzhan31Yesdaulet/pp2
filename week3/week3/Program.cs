@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 
-namespace FarManager3
+namespace week3
 {
     class Layer
     {
