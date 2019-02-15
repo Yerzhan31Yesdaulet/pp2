@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\PP2\week1\task02\task02\bin\Debug\task02.exe.config
+C:\Users\User\Desktop\PP2\week1\task02\task02\bin\Debug\task02.exe
+C:\Users\User\Desktop\PP2\week1\task02\task02\bin\Debug\task02.pdb
+C:\Users\User\Desktop\PP2\week1\task02\task02\obj\Debug\task02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PP2\week1\task02\task02\obj\Debug\task02.exe
+C:\Users\User\Desktop\PP2\week1\task02\task02\obj\Debug\task02.pdb
+C:\Users\User\Desktop\PP2\week1\task02\task02\obj\Debug\task02.csprojAssemblyReference.cache
